@@ -1,0 +1,26 @@
+2021-03-25 16:08
+
+ebook:The Algorithm Design Manual 3rd Edition
+
+Chapter 1 Introduction to Algorithm Design
+
+1.An algorithm is a procedure to accomplish a spedific task.
+
+2.insertion sort in c
+void insertion_sort(int datas[], int n)
+{
+    int t;
+    for (int i = 0; i < n; i++)
+    {
+        t = i;
+        while (t > 0 && data[t] < data[t - 1])
+        {
+            swap (data[t], data[t - 1]);
+	    t = t - 1;
+        }
+    } 
+}
+
+3.three properties of a good algorithm: correct, efficient and easy to implement.
+
+
