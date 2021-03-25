@@ -1,7 +1,10 @@
 2021-03-24 11:47
 
-Today, I start my self-learning project, after I read "Teach Yourself Computer Sicence" from https://teachyourselfcs.com/, as I want to be a real programmer or computer sicentist. At least, I really want to learn something, something straight to the point, not just about how to use the API. In order to upgrade my english as the same way, I decide to do everything in english along the way.
+Today, I start my self-learning project, after I read "Teach Yourself Computer Sicence" from https://teachyourselfcs.com/, 
+as I want to be a real programmer or computer sicentist. At least, I really want to learn something, something straight to the point, 
+not just about how to use the API. In order to upgrade my english as the same way, I decide to do everything in english along the way.
 
-I name the project as "STTP", which stands for straight to the point, and I must gain at least one point in a day. one knowledge-point for a point. The knowledge can be about programming, computer science or anything valuable.
+I name the project as "STTP", which stands for straight to the point, and I must gain at least one point in a day. one knowledge-point for a point. 
+The knowledge can be about programming, computer science or anything valuable.
 
 
